@@ -65,7 +65,7 @@ end
 
 module Redmine
   module WikiFormatting
-    module Markdown
+    module RedcarpetMarkdown
       class Formatter
         #    include ActionView::Helpers::TagHelper
 

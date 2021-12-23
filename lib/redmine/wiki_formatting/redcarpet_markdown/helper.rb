@@ -20,7 +20,7 @@
 module Redmine
   module WikiFormatting
     
-    module Markdown
+    module RedcarpetMarkdown
       module Helper
         unloadable
 
